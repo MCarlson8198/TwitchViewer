@@ -1,0 +1,56 @@
+.jumbotron {
+  background-color: #8a915d;
+  color:white;
+}
+
+#header{
+background:rgba(0, 0, 0, 0.15);
+  border: 3px white solid;
+  border-radius:25px;
+  margin-bottom: 10px;
+}
+img{
+  width:100px;
+  height:100px;
+  border-radius:50%;
+}
+.col-md-4{
+  padding:10px;
+}
+
+
+
+.row{
+  background: rgba(0,0,0,.45);
+  border: 3px white solid;
+  border-radius:25px;
+  margin-bottom:10px;
+}
+
+h1 {
+  color: white;
+}
+
+a {
+  color: #ffa363;
+}
+
+a:hover {
+  color: #c294b8;
+}
+
+a:visited {
+  color: #e1cf6b;
+}
+
+/*
+MINIFIED CSS: .jumbotron{background-color:#8a915d;color:#fff}#header{background:rgba(0,0,0,0.15);border:3px #fff solid;border-radius:25px;margin-bottom:10px}img{width:100px;height:100px;border-radius:50%}.col-md-4{padding:10px}.row{background:rgba(0,0,0,.45);border:3px #fff solid;border-radius:25px;margin-bottom:10px}h1{color:#fff}a{color:#ffa363}a:hover{color:#c294b8}a:visited{color:#e1cf6b}
+
+
+COLOR PALETTE
+Green: #8a915d
+Light Purple: #c294b8
+Light Orange: #ffa363
+Tan: #f2d88e
+Straw Yellow: #e1cf6b
+*/
